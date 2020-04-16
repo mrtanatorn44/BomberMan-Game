@@ -19,3 +19,6 @@ This game has 2 player, in player 1 use  `WASD` keys to move and  `SPACEBAR` to 
 - Kill another player untill you win.
 - One life per player.
 - No time limit.
+
+# Installation
+Download all files and execute `BomberMan` class.
