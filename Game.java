@@ -199,6 +199,8 @@ public class Game extends JPanel implements ActionListener, KeyListener {
         p2 = null;
         bomb1 = null;
         bomb2 = null;
+        p1_move_temp = "up";
+        p2_move_temp = "down";
         timer.start();
     }
     public void paintComponent(Graphics g) {
